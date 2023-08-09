@@ -2,7 +2,7 @@
 I created the world's first ever OnlyFans notification ROBOT!
 
 ## Description
-This is an OnlyFans notification robot developed using a Python script running on a Raspberry Pi to monitor an email account for new subscriber notifications from OnlyFans. Upon receiving a new subscriber email, the script activates a stepper motor connected to the Raspberry Pi, which in turn triggers a 3D printed penguin to move and makes a pygame module play a sound. The crucial Python libraries used here are the RPi.GPIO for controlling the Pi's GPIO pins, imaplib to interface with the email servers, and pygame to handle audio playback. Its a creative and enjoyable way to get notified about your increasing fan base on OnlyFans.
+This is an OnlyFans notification robot I developed using a Python script running on a Raspberry Pi to monitor my email for new subscriber notifications from OnlyFans. Upon receiving a new subscriber email, the script activates a stepper motor connected to the Raspberry Pi, which in turn triggers a 3D printed penguin to move and makes a pygame module play a sound. The crucial Python libraries used here are the RPi.GPIO for controlling the Pi's GPIO pins, imaplib to interface with the email servers, and pygame to handle audio playback. It's a creative and enjoyable way to get notified about your increasing fan base on OnlyFans.
 
 ![Penguin Image](Images/Penguin.png)
 
